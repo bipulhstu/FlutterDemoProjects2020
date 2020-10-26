@@ -10,5 +10,5 @@ all of my flutter learning projects
 | Day 4 | Onboarding Liquid Swap    | ![login](./screenshots/basic_login_ui.png)     | [onboarding_liquid_swap](./onboarding_liquid_swap) | Onboarding liquid swaping slider                |
 | Day 5 | Booking App               | ![dog](./screenshots/dog_photo_viewer.png)     | [booking_app](./booking_app)                       | Simple hotel booking app                        |
 | Day 6 | Curved Navigation Bar     | ![unit](./screenshots/unit_converter.png)      | [curved_navigation_bar](./curved_navigation_bar)   | Beautiful curved navigation bar                 |
-| Day 7 | Beautiful Login & Signup                | (./beautiful_login_signup/image (1).jpg)       | [beautiful_login_signup](./beautiful_login_signup)                  | Beautiful Login and Signup UI                    |
+| Day 7 | Beautiful Login & Signup  | ![login](./beautiful_login_signup/image (1).jpg)       | [beautiful_login_signup](./beautiful_login_signup)                  | Beautiful Login and Signup UI                    |
 | Day 8 | Calculator App            | ![calculator](./screenshots/calculator_ui.png) | [calculator_ui](./calculator_ui)                   | Calculator App                                  |
