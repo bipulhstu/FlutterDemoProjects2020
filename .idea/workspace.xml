@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09facb00-ab65-46f6-9da2-a7f2db0109f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jPCgfGEKGVRclfgRkMaikjMZVw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09facb00-ab65-46f6-9da2-a7f2db0109f3" name="Default Changelist" comment="" />
+      <created>1603696452549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603696452549</updated>
+    </task>
+    <task id="LOCAL-00001" summary="beautiful login and signup page added">
+      <created>1603729989606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603729989606</updated>
+    </task>
+    <task id="LOCAL-00002" summary="beautiful login and signup page added">
+      <created>1603730191693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603730191693</updated>
+    </task>
+    <task id="LOCAL-00003" summary="beautiful login and signup page added">
+      <created>1603730363276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603730363276</updated>
+    </task>
+    <task id="LOCAL-00004" summary="beautiful login and signup page added">
+      <created>1603730420260</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603730420260</updated>
+    </task>
+    <task id="LOCAL-00005" summary="beautiful login and signup page added">
+      <created>1603730808992</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603730808992</updated>
+    </task>
+    <task id="LOCAL-00006" summary="screenshots added">
+      <created>1603730964995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603730964995</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="beautiful login and signup page added" />
+    <MESSAGE value="screenshots added" />
+    <option name="LAST_COMMIT_MESSAGE" value="screenshots added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="83" key="CommitChangelistDialog2" timestamp="1603730964064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="83" key="CommitChangelistDialog2/-1366.412.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603730964064" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1603696462068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/-1366.412.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603696462068" />
+    <state x="800" y="417" key="Github.ShareDialog" timestamp="1603696490187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="417" key="Github.ShareDialog/-1366.412.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603696490187" />
+    <state x="668" y="213" key="Github.UntrackedFilesDialog" timestamp="1603696498090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="213" key="Github.UntrackedFilesDialog/-1366.412.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603696498090" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1603730848808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/-1366.412.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603730848808" />
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1603730875956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="281" key="MultipleFileMergeDialog/-1366.412.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603730875956" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603730823666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1366.412.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1603730823666" />
+  </component>
+</project>
