@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/basic_login_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_login_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/beautiful_login_signup/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/beautiful_login_signup/build" />
+      <excludeFolder url="file://$MODULE_DIR$/beutiful_login_and_signup/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/beutiful_login_and_signup/build" />
+      <excludeFolder url="file://$MODULE_DIR$/booking_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/booking_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/curved_navigation_bar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/curved_navigation_bar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_by_learn_24/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_by_learn_24/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login_and_signup/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login_and_signup/build" />
+      <excludeFolder url="file://$MODULE_DIR$/onboarding_liquid_swap/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/onboarding_liquid_swap/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
