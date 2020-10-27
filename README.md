@@ -11,4 +11,4 @@ all of my flutter learning projects
 | Day 5 | Booking App               | ![dog](./screenshots/dog_photo_viewer.png)     | [booking_app](./booking_app)                       | Simple hotel booking app                        |
 | Day 6 | Curved Navigation Bar     | ![unit](./curved_navigation_bar/image.jpg)      | [curved_navigation_bar](./curved_navigation_bar)   | Beautiful curved navigation bar                 |
 | Day 7 | Beautiful Login & Signup  | ![unit](./beautiful_login_signup/image.png)       | [beautiful_login_signup](./beautiful_login_signup)                  | Beautiful Login and Signup UI                    |
-| Day 8 | Basic Login UI            | ![login](./basic_login_ui/image (1).jpg) | [basic_login_ui](./basic_login_ui)                   | Basic Login UI                               |
+| Day 8 | Basic Login UI            | ![login](./basic_login_ui/image.jpg) | [basic_login_ui](./basic_login_ui)                   | Basic Login UI                               |
