@@ -1,16 +1,10 @@
 # curved_navigation_bar
+<h1 align="center">
+<img src="./image (1).png" width="310" height="690" alt="Screenshot 1"/>
+<img src="./image (2).png" width="310" height="690" alt="Screenshot 1"/>
+<img src="./image (3).png" width="310" height="690" alt="Screenshot 1"/>
+<img src="./image (4).png" width="310" height="690" alt="Screenshot 1"/>
+<img src="./image (5).png" width="310" height="690" alt="Screenshot 1"/>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/>
+</h1>
